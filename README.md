@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hello my friends! 👋
 
-<!--
-**RodrigoFrancoTQI/RodrigoFrancoTQI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑 My name is Rodrigo Franco de Lima and my personal profile on GitHub is: [RodrigoFranco91](https://www.tqi.com.br/)**;;
 
-Here are some ideas to get you started:
+🇧🇷 I'm from Brazil, Pouso Alegre - MG;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm a Web Developer and currently **I'm working at [TQI](https://www.tqi.com.br/)**; 
+
+📜 I have a degree in Information Systems and a graduate course at Mobile Development and Cloud Computing. 
+
+📫 How to reach me 👇🏼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/rodrigofrancodelima/)](https://br.linkedin.com/in/rodrigofrancodelima/) 
+[![Site Badge](https://img.shields.io/badge/-Site-FF0000?style=flat-square&logoColor=white&link=https://www.rodrigofrancodelima.com.br)](https://www.rodrigofrancodelima.com.br)
+
+# 💪 Skills:
+- Programming language: Java, Kotlin.
+- Markup/Style language: HTML5, CSS3.
+- Database (DBMS): MySql, PostgreSQL.
+- Frameworks: Spring (Boot, Web MVC, Data, Feign, Security, Thymeleaf, Actuator), Micronaut, gRPC, Hibernate.
+- Streaming Platform: Apache Kafka.
+- CASE Tools/Others: Visual Paradigm, Eclipse, IntelliJ, Postman, BloomRPC, JUnit, Swagger, Docker.
+
+
