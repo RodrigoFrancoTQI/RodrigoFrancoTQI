@@ -1,6 +1,6 @@
 # Hello my friends! 👋
 
-🧑 My name is Rodrigo Franco de Lima and my personal profile on GitHub is: [RodrigoFranco91](https://www.tqi.com.br/);
+🧑 My name is Rodrigo Franco de Lima and my personal profile on GitHub is: [RodrigoFranco91](https://github.com/RodrigoFranco91);
 
 🇧🇷 I'm from Brazil, Pouso Alegre - MG;
 
